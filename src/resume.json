@@ -23,7 +23,7 @@
 		},
 		{
 			"name": "My Resume",
-			"url": "#",
+			"url": "https://resumewebappp.herokuapp.com/",
 			"detail": "A personal Resume Build using Pure Reactjs and Bootstrap."
 		}
 	],
