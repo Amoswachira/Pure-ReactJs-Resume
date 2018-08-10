@@ -1,0 +1,95 @@
+{
+	"name": "Amos wachira Muchaho",
+	"email": "amoswachira50@gmail.com",
+	"phone": "0729584979",
+	"experiences": [
+		{
+			"title": "Freelance Developer",
+			"period": "2016 - Present"
+		},
+		{
+			"title": "Lead Designer",
+			"period": "june 2018 - July 2018",
+			"company": "Ideal sound Entertainment",
+			"companyURL": "http://www.idealsoundentertainment.co.ke",
+			"details": "Main Role was to Design and create The company Website"
+		}
+	],
+	"projects": [
+		{
+			"name": "Developer Hub",
+			"url": "https://devehub.herokuapp.com/",
+			"detail": "A social media webapp for developers Build using the MERN (Mongo, Express, React and NodeJS.) stack."
+		},
+		{
+			"name": "My Resume",
+			"url": "#",
+			"detail": "A personal Resume Build using Pure Reactjs and Bootstrap."
+		}
+	],
+	"skills": [
+		{
+			"name": " Javascript & jQuery",
+			"percent": "98%"
+		},
+		{
+			"name": "Python & Django",
+			"percent": "88%"
+		},
+		{
+			"name": "React js & Redux",
+			"percent": "90%"
+		},
+		{
+			"name": "React Native",
+			"percent": "70%"
+		},
+		{
+			"name": "Node Js ,Express & MongoDb",
+			"percent": "90%"
+		},
+		{
+			"name": "HTML5 & CSS",
+			"percent": "99%"
+		},
+		{
+			"name": "Bootstrap",
+			"percent": "90%"
+		},
+		{
+			"name": "Wordpress",
+			"percent": "90%"
+		},
+		{
+			"name": "Php & mysql",
+			"percent": "80%"
+		},
+		{
+			"name": "Adobe Illustrator & Photoshop",
+			"percent": "85%"
+		}
+	],
+	"education": [
+		{
+			"degree": "Bachelor of Science in Computer Information Systems",
+			"university": "KENYA METHODIST UNIVERSITY",
+			"period": "2012 - 2016"
+		}
+	],
+	"languages": [
+		{
+			"name": "English",
+			"details": "Professional"
+		},
+		{
+			"name": "Swahili",
+			"details": "Professional"
+		}
+	],
+	"interests": [
+		"Playing Basketball",
+		"Reading Books",
+		"Hiking",
+		"Coding"
+	]
+}
