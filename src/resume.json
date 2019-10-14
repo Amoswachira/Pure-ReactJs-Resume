@@ -4,33 +4,74 @@
 	"phone": "0729584979",
 	"experiences": [
 		{
-			"title": "Freelance Developer",
-			"period": "2016 - Present"
+			"title": "Software Engineer at Andela,",
+			"period": "2018 - Present",
+			"company": "Andela",
+			"companyURL": "https://andela.com/",
+			"details": "Andela is an African company that identifies and develops software developers. The companylaunched operations in Nigeria in 2014, to help global companies overcome the severeshortage of skilled software developers and has offices in Nigeria, Kenya, Rwanda, Uganda andthe United States.Some of the tasks i worked on were:",
+			"teams":"Collaborated with a team of 7 engineers to define, design, and ship new features & correct multiple bugs.",
+			"roles":"Developed a full-stack web application Authors haven using React & Redux for the front end. Python and postgresql for the backend.",
+			"backend":"API design patterns to create a modern API design using Django REST framework.",
+			"documenation":"Responsible for API documentation on swagger.",
+			"Design":"Created UI/UX  mockups using Adobe XD and converted the mockups to clean,responsive product.",
+			"code":"Conducted end to end testing & unit testing to ensure performance, quality, and responsiveness of applications."
+			
 		},
 		{
-			"title": "Lead Designer",
-			"period": "june 2018 - July 2018",
-			"company": "Ideal sound Entertainment",
-			"companyURL": "http://www.idealsoundentertainment.co.ke",
-			"details": "Main Role was to Design and create The company Website"
+			"title": "Software Engineer at Tulaa,",
+			"period": "June 2019 – September 2019",
+			"company": "Tulaa",
+			"companyURL": "https://www.tulaa.io/",
+			"details": "Tulaa provides smallholder farmers with quality agricultural inputs on credit and brokers the sale of their crop at harvest time. Launched in 2017, we use mobile technology and artificial intelligence to smartly connect farmers, input suppliers, and buyers in a digital marketplace.Some of the tasks i worked on were:",
+			"teams":"To revamp their old CRM to a new CRM in an actual distributed team with members in Uganda, Rwanda, and Nigeria.",
+			"roles":"Worked as a Frontend developer implementing features in the frontend using Angular 8,Angular Material  and Flexbox",
+			"Design":"Converted the mockups which were designed in Figma to clean,responsive product.",
+			"code":"Conducted end to end testing & unit testing using Karma and Jasmine to ensure performance, quality, and responsiveness of application."
+			
+		},
+		{
+			"title": "Freelancer at Upwork",
+			"period": "2016-2018",
+			"company": "Upwork",
+			"companyURL": "https://www.upwork.com",
+			"details": "Upwork, formerly Elance-oDesk, is a global freelancing platform where businesses and independent professionals connect and collaborate remotely. In 2015, Elance-oDesk was rebranded as Upwork. It is based in Mountain View and San Francisco, California. "
 		}
 	],
 	"projects": [
 		{
+			"name": "Authors Haven",
+			"url": "https://ah-immortals-frontend-staging.herokuapp.com/",
+			"detail": "Authors Haven - A Social platform for the creative at heart. vision:Create a community of like minded authors to foster inspiration and innovation by leveraging the modern web( React & Redux and Python & postgresql) stack."
+		},
+		{
+			"name": "Tulaa CRM",
+			"url": "https://tulaa.netlify.com/",
+			"detail": "Tulaa provides smallholder farmers with quality agricultural inputs on credit and brokers the sale of their crop at harvest time. Launched in 2017, we use mobile technology and artificial intelligence to smartly connect farmers, input suppliers, and buyers in a digital marketplace.( Angular 8 and postgresql ) stack "
+		},
+		{
 			"name": "Developer Hub",
-			"url": "https://devehub.herokuapp.com/",
+			"url": "https://merndevplus.herokuapp.com/",
 			"detail": "A social media webapp for developers Build using the MERN (Mongo, Express, React and NodeJS.) stack."
 		},
 		{
 			"name": "My Resume",
 			"url": "https://resumewebappp.herokuapp.com/",
 			"detail": "A personal Resume Build using Pure Reactjs and Bootstrap."
+		},
+		{
+			"name": "My Github ",
+			"url": "https://github.com/Amoswachira",
+			"detail": "My link to Github page."
 		}
 	],
 	"skills": [
 		{
-			"name": " Javascript & jQuery",
+			"name": " Javascript ",
 			"percent": "98%"
+		},
+		{
+			"name": "Angular",
+			"percent": "90%"
 		},
 		{
 			"name": "Python & Django",
@@ -57,12 +98,20 @@
 			"percent": "90%"
 		},
 		{
-			"name": "Wordpress",
+			"name": "Php & mysql",
+			"percent": "80%"
+		},
+		{
+			"name": "Docker",
+			"percent": "80%"
+		},
+		{
+			"name": "DevOps",
 			"percent": "90%"
 		},
 		{
-			"name": "Php & mysql",
-			"percent": "80%"
+			"name": "Git",
+			"percent": "95%"
 		},
 		{
 			"name": "Adobe Illustrator & Photoshop",
